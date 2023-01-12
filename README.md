@@ -1,6 +1,6 @@
 # Bugatti Chiron 
 
-### A Hero section of the Bugatti Chiron Prototype site developed in HTML and CSS only. 
+### A Hero section of the fastest Bugatti Chiron Prototype site developed in HTML and CSS only. 
 <br/>
 <img align="center" src="https://github.com/Uzafar90/Bugatti_Chiron/blob/master/chiron_img.png"/>
 <br/>
